@@ -1,6 +1,6 @@
 header
 ======
 
-*italic*  **mybold**   --strikeit--
+*italic*  **mybold**   ~~strikeit~~
 listing
 * apples
